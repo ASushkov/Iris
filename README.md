@@ -1,2 +1,2 @@
 # Iris
-Learning Data Science using Iris dataset
+Learning Data Science using Iris dataset and Python language 
